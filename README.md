@@ -9,7 +9,7 @@ To use, follow the below:
 1. Create a txt file in the same folder as toshiba_warranty_scraper.py called "serials.txt"
 2. Fill txt file with serial numbers you want info on, with every serial number on a new line
 3. Run toshiba_warranty_scraper.py (need to install Requests Python module)
-4. Script with create CSV with all the info you need! 
+4. Script will create CSV with all the info you need! 
 
 
 
