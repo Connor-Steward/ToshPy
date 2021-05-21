@@ -1,4 +1,4 @@
-# Toshpy
+# ToshPy
 
 Get Toshiba device warranty infomation from https://support.dynabook.com/warranty in bulk 
 
